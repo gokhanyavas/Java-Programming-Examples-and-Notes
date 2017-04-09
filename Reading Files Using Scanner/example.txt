@@ -1,0 +1,10 @@
+3
+1. satir
+2. satir
+3. satir
+
+java
+python
+sql
+
+hepsi bu kadar.. :)
